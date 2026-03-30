@@ -13,6 +13,7 @@ Command autocomplete
 How to Run-
 Download the .exe file(also remember to have the other dll files and the folders with the .exe file or else the EXE file will not run!)
 Double-click to launch AeroShell
+
 Screenshots-
 <img width="957" height="451" alt="image" src="https://github.com/user-attachments/assets/1007c73d-3787-4888-856c-ab33942c6dae" />
 <img width="281" height="124" alt="image" src="https://github.com/user-attachments/assets/eff133f3-f3fe-4b6b-8a7b-8353397bb76d" />
@@ -20,12 +21,6 @@ Screenshots-
 
 
 
-
-
-Add Your Own Screenshots
-Create a folder called screenshots
-Add your images (e.g. main.png)
-Make sure the names match the ones used above
 Developer
 
 Naitik Anand
